@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chem.Eng.</title>
+    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <description>Recent content in Posts on Chem.Eng.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2016 19:50:11 +0800</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>文献阅读笔记</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 24 Jan 2016 19:50:11 +0800</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;media/14535527049467/Density,%20Viscosity,%20and%20Refractive%20Index%20of%20Formamide,%20Three%20Carboxylic%20Acids,%20and%20Formamide%20+%20Carboxylic%20Acid%20Binary%20Mixtures.pdf&#34;&gt;Density, Viscosity, and Refractive Index of Formamide, Three Carboxylic Acids, and Formamide + Carboxylic Acid Binary Mixtures&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h2 id=&#34;实验目的:d06cfd764fde9b2b776418394f252211&#34;&gt;实验目的&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;获得实验物质的密度、黏度、折射率实验数据；&lt;/li&gt;
+&lt;li&gt;对于纯物质，建立三个物性对温度的经验等式；&lt;/li&gt;
+&lt;li&gt;对二元混合物建立经验等式。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;温度范围:d06cfd764fde9b2b776418394f252211&#34;&gt;温度范围&lt;/h2&gt;
+
+&lt;p&gt;298.15K~313.15K。&lt;/p&gt;
+
+&lt;h2 id=&#34;实验物质:d06cfd764fde9b2b776418394f252211&#34;&gt;实验物质&lt;/h2&gt;
+
+&lt;h3 id=&#34;单质:d06cfd764fde9b2b776418394f252211&#34;&gt;单质&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;甲酰氨(F)：100 mass%。Received.&lt;/li&gt;
+&lt;li&gt;甲酸(FA)：&amp;gt; 99 mass%。冷却结晶除水，并冷冻保存。&lt;/li&gt;
+&lt;li&gt;乙酸(AA)：&amp;gt; 99 mass%。用无水 $\mathrm{P}_2\mathrm{O}_5$ 过滤。&lt;/li&gt;
+&lt;li&gt;丙酸(PA)：&amp;gt; 99 mass%。Received.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;二元混合物:d06cfd764fde9b2b776418394f252211&#34;&gt;二元混合物&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(F+FA)&lt;/li&gt;
+&lt;li&gt;(F+AA)&lt;/li&gt;
+&lt;li&gt;(F+PA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;实验步骤:d06cfd764fde9b2b776418394f252211&#34;&gt;实验步骤&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;仪器/方法&lt;/th&gt;
+&lt;th&gt;误差区间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;称重&lt;/td&gt;
+&lt;td&gt;Mettler Toledo AG245&lt;/td&gt;
+&lt;td&gt;$\pm\,0.1\,\mathrm{mg}$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;密度&lt;/td&gt;
+&lt;td&gt;KEM DA 300&lt;/td&gt;
+&lt;td&gt;$\pm\,0.1\,\mathrm{kg·m^{-3}}$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;折射率&lt;/td&gt;
+&lt;td&gt;Jena dipping refrac- tometer&lt;/td&gt;
+&lt;td&gt;$\pm\,0.00002$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;黏度&lt;/td&gt;
+&lt;td&gt;Cannon-Fenske viscometers&lt;/td&gt;
+&lt;td&gt;$ \Delta \eta / \eta= 0.004$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;温度&lt;/td&gt;
+&lt;td&gt;恒温水浴&lt;/td&gt;
+&lt;td&gt;$\pm\, 0.01\, \mathrm{K}$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mettler Toledo AG245：mole fractions $\pm\, 0.0001$.&lt;/li&gt;
+&lt;li&gt;KEM DA 300：利用去气体二次过滤水作为基准物。&lt;/li&gt;
+&lt;li&gt;Cannon-Fenske viscometers：利用二次过滤水和苯进行校准。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;结果与讨论:d06cfd764fde9b2b776418394f252211&#34;&gt;结果与讨论&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first post</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/first-post/</link>
+      <pubDate>Sun, 24 Jan 2016 19:47:11 +0800</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/first-post/</guid>
+      <description>
+
+&lt;h2 id=&#34;test-post:f3b70d76da56e15d82042b9ef176d71f&#34;&gt;Test post&lt;/h2&gt;
+
+&lt;p&gt;This is a test post.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
