@@ -8,13 +8,43 @@
     <language>en-us</language>
     <managingEditor>dengzhengyuan2240@hotmail.com (DZY)</managingEditor>
     <webMaster>dengzhengyuan2240@hotmail.com (DZY)</webMaster>
-    <lastBuildDate>Sun, 24 Jan 2016 23:24:56 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2015 10:58:42 +0800</lastBuildDate>
     <atom:link href="http://dengzhengyuan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于气体/汽体、气相/汽相的区别与理解</title>
+      <link>http://dengzhengyuan.github.io/post/gas-vapor/</link>
+      <pubDate>Thu, 18 Jun 2015 10:58:42 +0800</pubDate>
+      <author>dengzhengyuan2240@hotmail.com (DZY)</author>
+      <guid>http://dengzhengyuan.github.io/post/gas-vapor/</guid>
+      <description>&lt;p&gt;物理化学就开始接触相态，汽和气的概念在化工原理、热力学和分离过程中被广泛提到。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;气，英文为 Gas；汽，英文为 Vapour.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;广义来说气体是指无形状有体积的可变形可流动的流体。与液体的区别是是否可压缩。&lt;/p&gt;
+
+&lt;p&gt;狭义来说，气体都有临界点，在临界温度以上时，气体不能通过等温压缩而形成液体，这种气体被称为非凝性气体，即为 Gas，一般称为“气”，也称为永久气体；反之，气体在临界温度以下时，可以通过等温压缩是气体变成液体，此时即为“汽”，称为 Vapour，也称为蒸汽。&lt;/p&gt;
+
+&lt;p&gt;所以，气和汽是相对的，而不是绝对的，一种物质在气态时，既可以是 gas，也可以是 vapour。&lt;/p&gt;
+
+&lt;p&gt;在相平衡中，存在“汽液平衡”，VLE；“气液平衡”，GLE。在所给定的条件下，VLE的各组分都是可凝性组分，即“汽”；GLE中至少有一种组分是非凝性气体，即“永久气体”。&lt;/p&gt;
+
+&lt;p&gt;如果一个混合物中处于其中大多数的了组分的临界温度以上的系统温度，则习惯上称该混合物为“气体”。&lt;/p&gt;
+
+&lt;p&gt;在热力学、化工原理以及分离过程的研究中，汽液平衡与精馏有关，而气液平衡与吸收有关。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;参考资料&lt;/p&gt;
+
+&lt;p&gt;化工热力学 冯新版； 分离过程 刘家祺版； 真空技术网。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>致谢</title>
       <link>http://dengzhengyuan.github.io/post/ack/</link>
-      <pubDate>Sun, 24 Jan 2016 23:24:56 +0800</pubDate>
+      <pubDate>Sat, 24 Jan 2009 23:24:56 +0800</pubDate>
       <author>dengzhengyuan2240@hotmail.com (DZY)</author>
       <guid>http://dengzhengyuan.github.io/post/ack/</guid>
       <description>&lt;p&gt;天太冷了= =下次再说……&lt;/p&gt;
