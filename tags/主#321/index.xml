@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主#321 on Chem.Eng.</title>
+    <link>http://dengzhengyuan.github.io/tags/%E4%B8%BB/</link>
+    <description>Recent content in 主#321 on Chem.Eng.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dengzhengyuan2240@hotmail.com (DZY)</managingEditor>
+    <webMaster>dengzhengyuan2240@hotmail.com (DZY)</webMaster>
+    <lastBuildDate>Mon, 25 Jan 2016 19:45:55 +0800</lastBuildDate>
+    <atom:link href="http://dengzhengyuan.github.io/tags/%E4%B8%BB" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>主#321-Literature Reading 1</title>
+      <link>http://dengzhengyuan.github.io/post/LiteratureReading1/</link>
+      <pubDate>Mon, 25 Jan 2016 19:45:55 +0800</pubDate>
+      <author>dengzhengyuan2240@hotmail.com (DZY)</author>
+      <guid>http://dengzhengyuan.github.io/post/LiteratureReading1/</guid>
+      <description>
+
+&lt;h1 id=&#34;文献阅读笔记-1:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;文献阅读笔记【1】&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文献：
+Density, Viscosity, and Refractive Index of Formamide, Three Carboxylic Acids, and Formamide + Carboxylic Acid Binary Mixtures&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;实验目的:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;实验目的&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;获得实验物质的密度、黏度、折射率实验数据；&lt;/li&gt;
+&lt;li&gt;对于纯物质，建立三个物性对温度的经验等式；&lt;/li&gt;
+&lt;li&gt;对二元混合物建立经验等式。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;温度范围:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;温度范围&lt;/h2&gt;
+
+&lt;p&gt;298.15K~313.15K。&lt;/p&gt;
+
+&lt;h2 id=&#34;实验物质:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;实验物质&lt;/h2&gt;
+
+&lt;h3 id=&#34;单质:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;单质&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;甲酰氨(F)：100 mass%。Received.&lt;/li&gt;
+&lt;li&gt;甲酸(FA)：&amp;gt; 99 mass%。冷却结晶除水，并冷冻保存。&lt;/li&gt;
+&lt;li&gt;乙酸(AA)：&amp;gt; 99 mass%。用无水 $\mathrm{P}_2\mathrm{O}_5$过滤。&lt;/li&gt;
+&lt;li&gt;丙酸(PA)：&amp;gt; 99 mass%。Received.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;二元混合物:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;二元混合物&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(F+FA)&lt;/li&gt;
+&lt;li&gt;(F+AA)&lt;/li&gt;
+&lt;li&gt;(F+PA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;实验步骤:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;实验步骤&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;仪器/方法&lt;/th&gt;
+&lt;th&gt;误差区间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;称重&lt;/td&gt;
+&lt;td&gt;Mettler Toledo AG245&lt;/td&gt;
+&lt;td&gt;$\pm\,0.1\,\mathrm{mg}$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;密度&lt;/td&gt;
+&lt;td&gt;KEM DA 300&lt;/td&gt;
+&lt;td&gt;$\pm\,0.1\,\mathrm{kg·m^{-3}}$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;折射率$\,\,$&lt;/td&gt;
+&lt;td&gt;Jena dipping refractometer&lt;/td&gt;
+&lt;td&gt;$\pm\,0.00002$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;黏度&lt;/td&gt;
+&lt;td&gt;Cannon-Fenske viscometers $\,\,$&lt;/td&gt;
+&lt;td&gt;$ \Delta \eta / \eta= 0.004$&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;温度&lt;/td&gt;
+&lt;td&gt;恒温水浴&lt;/td&gt;
+&lt;td&gt;$\pm\, 0.01\, \mathrm{K}$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mettler Toledo AG245：mole fractions $\pm\, 0.0001$；&lt;/li&gt;
+&lt;li&gt;KEM DA 300：利用去气体二次过滤水作为基准物；&lt;/li&gt;
+&lt;li&gt;Cannon-Fenske viscometers：利用二次过滤水和苯进行校准。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;结果与讨论:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;结果与讨论&lt;/h2&gt;
+
+&lt;h3 id=&#34;纯物质:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;纯物质&lt;/h3&gt;
+
+&lt;p&gt;$$ \rho = a_1 + b_1\, t$$&lt;/p&gt;
+
+&lt;p&gt;$$n_D = a_2 + b_2 \,t$$&lt;/p&gt;
+
+&lt;p&gt;$$\eta = a_3\, \mathrm{exp}\frac{b_3}{T}$$&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Viscosity 和 Temperature 非线性关系，采用 Levenberg- Marquardt algorithm 方法拟合；&lt;/li&gt;
+&lt;li&gt;Density 以及 Refractive 与 Temperature 成线性关系，采用最小二乘法拟合；&lt;/li&gt;
+&lt;li&gt;在大多数有机物中，黏度、密度、折射率都随温度升高而升高；&lt;/li&gt;
+&lt;li&gt;通过做图的斜率确定等式系数；&lt;/li&gt;
+&lt;li&gt;系数算出来了之后，要计算 coefficient error 和 standard deviations.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;二元混合物-1:096a29d12ba2e71bde5634b8c3ddc221&#34;&gt;二元混合物&lt;/h3&gt;
+
+&lt;p&gt;$$\rho = a_1 (x_F) + b_1 (x_F)\, t$$&lt;/p&gt;
+
+&lt;p&gt;$$n_D = a_2 (x_F) + b_2 (x_F) \,t$$&lt;/p&gt;
+
+&lt;p&gt;$$\eta = a_3 (x_F) \,\mathrm{exp}\frac{b_3 (x_F)}{T}$$&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;$x_F$做参变量(Parameter)，让二元混合物的密度对 $t$做图，得到直线关系，通过斜率算出对应参数；&lt;/li&gt;
+&lt;li&gt;将各参数对  $x_F$ 做图，也得到了直线关系，联立1中的到的结果，得到最终表达式；&lt;/li&gt;
+&lt;li&gt;折射率与黏度同密度理。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
