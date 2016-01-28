@@ -8,259 +8,18 @@
     <language>en-us</language>
     <managingEditor>dengzhengyuan2240@hotmail.com (DZY)</managingEditor>
     <webMaster>dengzhengyuan2240@hotmail.com (DZY)</webMaster>
-    <lastBuildDate>Tue, 26 Jan 2016 17:35:27 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2016 10:35:27 +0800</lastBuildDate>
     <atom:link href="http://dengzhengyuan.github.io/tags/%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>MHX 技能一览（随从猫、其他技能）</title>
-      <link>http://dengzhengyuan.github.io/post/mhx-jineng7/</link>
-      <pubDate>Tue, 26 Jan 2016 17:35:27 +0800</pubDate>
-      <author>dengzhengyuan2240@hotmail.com (DZY)</author>
-      <guid>http://dengzhengyuan.github.io/post/mhx-jineng7/</guid>
-      <description>
-
-&lt;h2 id=&#34;随从猫-其他技能:4513f38747d13352c5610a08a800fb98&#34;&gt;随从猫、其他技能&lt;/h2&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
-
-&lt;p&gt;&lt;table border=&#34;1&#34;&gt;
-&lt;tr&gt;
-    &lt;th&gt;分类技能系统&lt;/th&gt;
-    &lt;th&gt;发动技能&lt;/th&gt;
-    &lt;th&gt;点数&lt;/th&gt;
-    &lt;th&gt;效果&lt;/th&gt;
-&lt;/tr&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;千里眼&lt;/td&gt;&lt;td&gt;自動マーキング&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;常时显示中型、大型怪物的位置、朝向、攻击状态&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;探知&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;标记时，显示中型、大型怪物的位置、朝向、攻击状态。同时，就算没有进行标记也有一定几率获得同样的效果。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;観察眼&lt;/td&gt;&lt;td&gt;捕獲の見極め&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;标记时，在可捕获的时候图标出现白色闪烁。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;狩人&lt;/td&gt;&lt;td&gt;ハンター生活&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;变得容易做烤肉。就算没有地图也能显示小地图。钓鱼时在首次拉杆中上钩。鱼饵道具调合成功率100%。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;気配&lt;/td&gt;&lt;td&gt;隠密&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;变得不容易被怪物视为攻击目标&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;挑発&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;变得容易被被怪物视为攻击目标&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;研ぎ師&lt;/td&gt;&lt;td&gt;砥石使用高速化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;使用砥石系道具所需时间变短。从平时的4次变为1次。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;砥石使用低速化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;使用砥石系道具所需时间变长。从平时的4次变为5次。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;高速設置&lt;/td&gt;&lt;td&gt;罠師&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;陷井道具、肉道具、炸弹(除了小桶炸弹和升空桶炸弹以外)的设置所需时间变短。陷井道具及肉道具的调合成功率100%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;燃鱗&lt;/td&gt;&lt;td&gt;燃鱗&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;获得和持有火把时同样的效果。ジャギィ等部分小型怪物不再靠近，反之会吸引ブナハブラ、クンチュウ等虫类的注意。アイルー、メラルー等猫也会出现&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;笛&lt;/td&gt;&lt;td&gt;笛吹き名人&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;延长狩猎笛的演奏效果时间，拥有回复效果的旋律则出现回复量变多的效果。此外，笛道具有1/2的几率不破损&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;号令&lt;/td&gt;&lt;td&gt;オトモへの号令&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;在打猎猫休息的状态，实行动作“かけごえ（号令）”就能使其体力回满。不可在使用后的10分钟内再次使用。在设有背水の陣的印的时候无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;采配&lt;/td&gt;&lt;td&gt;オトモへの采配&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;打猎猫的攻击力和防御力变为原来的1.1倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;胴系統倍加&lt;/td&gt;&lt;td&gt;胴系統倍加&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;胴部件的技能点数变为原来的2倍&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;br/&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;翻译：多玩 - 孫飛飛、魂子，转载请注明出处！&lt;/p&gt;
-
-&lt;p&gt;原文网址：&lt;a href=&#34;http://bbs.duowan.com/thread-44025166-1-1.html&#34;&gt;http://bbs.duowan.com/thread-44025166-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MHX 技能一览（复合技能）</title>
-      <link>http://dengzhengyuan.github.io/post/mhx-jineng7/</link>
-      <pubDate>Tue, 26 Jan 2016 16:35:27 +0800</pubDate>
-      <author>dengzhengyuan2240@hotmail.com (DZY)</author>
-      <guid>http://dengzhengyuan.github.io/post/mhx-jineng7/</guid>
-      <description>
-
-&lt;h2 id=&#34;复合技能:8f5ab6fbf8547a71d29fd8b8c7346121&#34;&gt;复合技能&lt;/h2&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
-
-&lt;table border=&#34;1&#34;&gt;
-&lt;tr&gt;
-    &lt;th&gt;分类技能系统&lt;/th&gt;
-    &lt;th&gt;发动技能&lt;/th&gt;
-    &lt;th&gt;点数&lt;/th&gt;
-    &lt;th&gt;效果&lt;/th&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ベルナ&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ベルナの心&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;火耐性【小】 ＋ 腹減り半減&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ココット&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ココットの心&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;雷耐性【小】 ＋ 精霊の気まぐれ&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ポッケ&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ポッケの心&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;氷耐性【小】 ＋ まんぷく&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ユクモ&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ユクモの心&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;水耐性【小】 ＋ ハニーハンター&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;刀匠&lt;/td&gt;&lt;td&gt;真打&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;斬れ味レベル+1 ＋ 攻撃力UP【大】&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;秘伝&lt;/td&gt;&lt;td&gt;奥義&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;覚醒 ＋ 属性攻撃強化 ＋ 状態異常攻撃&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;斬術&lt;/td&gt;&lt;td&gt;心剣一体&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;心眼 ＋ 業物&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;北辰納豆流&lt;/td&gt;&lt;td&gt;ネバネバ剣法&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不屈 ＋ ランナー ＋ スタミナ奪取&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;剛腕&lt;/td&gt;&lt;td&gt;強打&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;スタミナ奪取 ＋ KO術&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;状態耐性&lt;/td&gt;&lt;td&gt;護法&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;毒無効 ＋ 気絶無効 ＋ 麻痺無効 ＋ 睡眠無効&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;回避術&lt;/td&gt;&lt;td&gt;軽業師&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避性能+1 ＋ 体術+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;祈願&lt;/td&gt;&lt;td&gt;祝福&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;体力回復量UP ＋ 精霊の加護&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;護石収集&lt;/td&gt;&lt;td&gt;お守りマニア&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;採取+1 ＋ お守りハンター&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;強欲&lt;/td&gt;&lt;td&gt;増収&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;幸運 ＋ 捕獲達人&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;射手&lt;/td&gt;&lt;td&gt;剛弾&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;通常弾強化 ＋ 散弾強化 ＋ 貫通弾強化&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;裏稼業&lt;/td&gt;&lt;td&gt;暗躍&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;装填数UP ＋ 調合成功率 ＋ 隠密&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;怒&lt;/td&gt;&lt;td&gt;逆鱗&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;根性 ＋ 火事場力+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;頑強&lt;/td&gt;&lt;td&gt;鉄壁&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;防御力UP【中】 ＋ 鉄面皮&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;居合&lt;/td&gt;&lt;td&gt;居合術【力】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;抜刀術【力】 ＋ 納刀術&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;一心&lt;/td&gt;&lt;td&gt;精神力&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;集中 ＋ お肉大好き&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;食欲&lt;/td&gt;&lt;td&gt;グルメ&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;早食い+2 ＋ お肉大好き ＋ キノコ大好き&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;盾持&lt;/td&gt;&lt;td&gt;盾使い&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;ガード強化 ＋ スタミナ急速回復&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;潔癖&lt;/td&gt;&lt;td&gt;舞闘家&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避距離UP ＋ フルチャージ&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;増幅&lt;/td&gt;&lt;td&gt;属物強化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;属性攻撃強化 ＋ アイテム使用強化&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;剛撃&lt;/td&gt;&lt;td&gt;無慈悲&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弱点特効 ＋ 見切り+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;不動&lt;/td&gt;&lt;td&gt;金剛体&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;耳栓 ＋ 風圧【小】无效，受到攻击时的反应减少1个阶段&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;職工&lt;/td&gt;&lt;td&gt;トラップマスター&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;罠師 ＋ ボマー&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;指揮&lt;/td&gt;&lt;td&gt;オトモ指揮官&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;采配 ＋ 号令&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;紅兜&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;紅兜の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;逆恨み ＋ 集中&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;大雪主&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;大雪主の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避距離UP ＋ スタミナ急速回復&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;紫毒姫&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;紫毒姫の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;状態異常攻撃+2 ＋ 広域+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;矛砕&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;矛砕の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;業物 ＋ 反動軽減+2 ＋ 精霊の加護&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;岩穿&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;岩穿の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;火事場+2 ＋ 拾い食い&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;黒炎王&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;黒炎王の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;風圧【大】無効 ＋ 攻撃力UP【大】&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;荒鉤爪&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;荒鉤爪の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;早食い+2 ＋ 高級耳栓&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;金雷公&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;金雷公の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;力の解放+2 ＋ 体術+2&lt;br&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;隻眼&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;隻眼の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;気絶無効 ＋ 挑戦者+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;宝纏&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;宝纏の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;護石王 ＋ 腹減り無効&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;白疾風&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;白疾風の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避性能+2 ＋ 見切り+3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;燼滅刃&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;燼滅刃の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;斬れ味レベル+2 ＋ 弾導強化 ＋ 砥石使用高速化&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;翻译：多玩 - 孫飛飛、魂子，转载请注明出处！&lt;/p&gt;
-
-&lt;p&gt;原文网址：&lt;a href=&#34;http://bbs.duowan.com/thread-44025166-1-1.html&#34;&gt;http://bbs.duowan.com/thread-44025166-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MHX 技能一览（远程职业技能）</title>
-      <link>http://dengzhengyuan.github.io/post/mhx-jineng6/</link>
-      <pubDate>Tue, 26 Jan 2016 15:35:27 +0800</pubDate>
-      <author>dengzhengyuan2240@hotmail.com (DZY)</author>
-      <guid>http://dengzhengyuan.github.io/post/mhx-jineng6/</guid>
-      <description>
-
-&lt;h2 id=&#34;远程职业技能:7d7a12f9f525709c463f60fd6653f2f8&#34;&gt;远程职业技能&lt;/h2&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
-
-&lt;table border=&#34;1&#34;&gt;
-&lt;tr&gt;
-    &lt;th&gt;分类技能系统&lt;/th&gt;
-    &lt;th&gt;发动技能&lt;/th&gt;
-    &lt;th&gt;点数&lt;/th&gt;
-    &lt;th&gt;效果&lt;/th&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;通常弾強化&lt;/td&gt;&lt;td&gt;通常弾・連射矢UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;通常弹、连射矢的威力变为原来的1.1倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;通常弾追加&lt;/td&gt;&lt;td&gt;通常弾全LV追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用所有LV的通常弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;貫通弾強化&lt;/td&gt;&lt;td&gt;貫通弾・貫通矢UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;贯通弹、贯通矢的威力变为原来的1.1倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;貫通弾追加&lt;/td&gt;&lt;td&gt;貫通弾全LV追加&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;可使用所有LV的贯通弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;貫通弾LV1追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用LV1贯通弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;散弾強化&lt;/td&gt;&lt;td&gt;散弾・拡散矢UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;散弹的威力变为原来的1.2倍。扩散矢的威力变为原来的1.3倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;散弾追加&lt;/td&gt;&lt;td&gt;散弾全LV追加&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;可使用所有LV的散弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;散弾LV1追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用LV1散弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;榴弾追加&lt;/td&gt;&lt;td&gt;徹甲榴弾全LV追加&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;可使用所有LV的徹甲榴弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;徹甲榴弾LV1追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用LV1徹甲榴弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;拡散弾追加&lt;/td&gt;&lt;td&gt;拡散弾全LV追加&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;可使用所有LV的扩散弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;拡散弾LV1追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用LV1扩散弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;斬裂弾追加&lt;/td&gt;&lt;td&gt;斬裂弾追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备斩裂弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;爆破弾追加&lt;/td&gt;&lt;td&gt;爆破弾追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备爆破弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;強撃瓶追加&lt;/td&gt;&lt;td&gt;強撃ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备强击瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;毒瓶追加&lt;/td&gt;&lt;td&gt;毒ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备毒瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;麻痺瓶追加&lt;/td&gt;&lt;td&gt;麻痺ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备麻痺瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;睡眠瓶追加&lt;/td&gt;&lt;td&gt;睡眠ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备睡眠瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;接撃瓶追加&lt;/td&gt;&lt;td&gt;接撃ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备接击瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;減気瓶追加&lt;/td&gt;&lt;td&gt;減気ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备减气瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;爆破瓶追加&lt;/td&gt;&lt;td&gt;爆破ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备爆破瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;精密射撃&lt;/td&gt;&lt;td&gt;ブレ抑制+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;不再有弹道抖动幅度&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ブレ抑制+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弹道抖动幅度减少1个阶段&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ブレ抑制-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;弹道抖动幅度增加1个阶段&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ブレ抑制-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;弹道抖动幅度大&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;6&#34;&gt;反動&lt;/td&gt;&lt;td&gt;反動軽減+3&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;弩枪的反作用力减少3个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;弩枪的反作用力减少2个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弩枪的反作用力减少1个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;弩枪的反作用力增加1个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;弩枪的反作用力增加2个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減-3&lt;/td&gt;&lt;td&gt;-20&lt;/td&gt;&lt;td&gt;弩枪的反作用力增加3个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填数&lt;/td&gt;&lt;td&gt;装填数UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弩枪的装填数、弓的蓄力各增加1个阶段(最大4阶段)。铳枪的炮击、蓄力斧的装填数都会增加&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;6&#34;&gt;装填速度&lt;/td&gt;&lt;td&gt;装填速度+3&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;弩枪的装填速度提高3个阶段，但是对蹲姿射击没有影响。弓的瓶子切换后可以自动装填。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;弩枪的装填速度提高2个阶段，但是对蹲姿射击没有影响。弓的瓶子切换后可以自动装填。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弩枪的装填速度提高1个阶段，但是对蹲姿射击没有影响。弓的瓶子切换速度加快0.75倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;弩枪的装填速度延缓1个阶段。但是对蹲姿射击没有影响。弓的瓶子装入速度延缓1.1倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;弩枪的装填速度延缓2个阶段。但是对蹲姿射击没有影响。弓的瓶子装入速度延缓1.2倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度-3&lt;/td&gt;&lt;td&gt;-20&lt;/td&gt;&lt;td&gt;弩枪的装填速度延缓3个阶段。但是对蹲姿射击没有影响。弓的瓶子装入速度延缓1.3倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;速射&lt;/td&gt;&lt;td&gt;連発数+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;速射时的发射数+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;射法&lt;/td&gt;&lt;td&gt;弾導強化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;使部分子弹、弓箭的会心距离延长&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;弾薬節約&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;弾薬節約&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;射击时有时不消耗子弹及瓶子&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;変則射撃&lt;/td&gt;&lt;td&gt;特定射撃強化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;武器内藏弹、曲射、刚射的威力上升&lt;/td&gt;&lt;/tr&gt;
-
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;翻译：多玩 - 孫飛飛、魂子，转载请注明出处！&lt;/p&gt;
-
-&lt;p&gt;原文网址：&lt;a href=&#34;http://bbs.duowan.com/thread-44025166-1-1.html&#34;&gt;http://bbs.duowan.com/thread-44025166-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MHX 技能一览（报酬、采取、调合技能）</title>
-      <link>http://dengzhengyuan.github.io/post/mhx-jineng4/</link>
-      <pubDate>Tue, 26 Jan 2016 13:35:27 +0800</pubDate>
-      <author>dengzhengyuan2240@hotmail.com (DZY)</author>
-      <guid>http://dengzhengyuan.github.io/post/mhx-jineng4/</guid>
-      <description>
-
-&lt;h2 id=&#34;报酬-采取-调合技能:742272ad85ed70fd87678db8a56c6ee5&#34;&gt;报酬、采取、调合技能&lt;/h2&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
-
-&lt;table border=&#34;1&#34;&gt;
-&lt;tr&gt;
-    &lt;th&gt;分类技能系统&lt;/th&gt;
-    &lt;th&gt;发动技能&lt;/th&gt;
-    &lt;th&gt;点数&lt;/th&gt;
-    &lt;th&gt;效果&lt;/th&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td rowspan=&#34;5&#34;&gt;運気&lt;/td&gt;&lt;td&gt;激運&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为31/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;強運&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为28/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;幸運&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为25/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;不運&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为16/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;災難&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为8/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;剥ぎ取り&lt;/td&gt;&lt;td&gt;剥ぎ取りマスター&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;剥取次数增加1次，剥取时霸体。并有25/32的几率再增加1次剥取次数&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;剥ぎ取り達人&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;剥取次数增加1次，剥取时霸体&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;剥ぎ取り鉄人&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;剥取时霸体&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;捕獲&lt;/td&gt;&lt;td&gt;捕獲マスター&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;捕获怪物时的捕获报酬从2～3个增加至4个&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;捕獲名人&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;捕获怪物时的捕获报酬从2～3个增加至3～4个&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;捕獲達人&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;捕获怪物时的捕获报酬从2～3个增加至3个&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;採取&lt;/td&gt;&lt;td&gt;採取マスター&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;下次也可采取道具的几率从平时的25/32变为31/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;採取+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;下次也可采取道具的几率从平时的25/32变为29/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;採取+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;下次也可采取道具的几率从平时的25/32变为27/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;採取-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;下次也可采取道具的几率从平时的25/32变为21/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;高速収集&lt;/td&gt;&lt;td&gt;高速収集&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;剥取、采取、捕虫、采掘速度变快&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;運搬&lt;/td&gt;&lt;td&gt;運搬の達人&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;搬运时的移动速度变快。就算从高处跳下也不容易使搬运物掉落&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ハチミツ&lt;/td&gt;&lt;td&gt;ハニーハンター&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;1次可采取2个蜂蜜及皇家蜂蜜&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;護石王&lt;/td&gt;&lt;td&gt;お守りハンター&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;采集时30%的几率获得2个お守り&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;お守り収集&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;采集时20%的几率获得2个お守り&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;気まぐれ&lt;/td&gt;&lt;td&gt;神の気まぐれ&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;ピッケル系、虫あみ系、笛系、ブーメラン 1/2的几率不损坏&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;精霊の気まぐれ&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;ピッケル系、虫あみ系、笛系、ブーメラン 1/4的几率不损坏&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;悪霊の気まぐれ&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;ピッケル系、虫あみ系、笛系、ブーメラン 1/4的几率不损坏&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;悪魔の気まぐれ&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;ピッケル系、虫あみ系、笛系、ブーメラン 1/2的几率不损坏&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;調合数&lt;/td&gt;&lt;td&gt;最大数生産&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;调合的生产数必然为最大&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;調合成功率&lt;/td&gt;&lt;td&gt;調合成功率+45%&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;调合成功率+45%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;調合成功率+20%&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;调合成功率+20%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;調合成功率-10%&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;调合成功率-10%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;調合成功率-20%&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;调合成功率-20%&lt;/td&gt;&lt;/tr&gt;
-
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;翻译：多玩 - 孫飛飛、魂子，转载请注明出处！&lt;/p&gt;
-
-&lt;p&gt;原文网址：&lt;a href=&#34;http://bbs.duowan.com/thread-44025166-1-1.html&#34;&gt;http://bbs.duowan.com/thread-44025166-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MHX 技能一览（耐性、无效化技能）</title>
-      <link>http://dengzhengyuan.github.io/post/mhx-jineng3/</link>
-      <pubDate>Tue, 26 Jan 2016 12:35:27 +0800</pubDate>
-      <author>dengzhengyuan2240@hotmail.com (DZY)</author>
-      <guid>http://dengzhengyuan.github.io/post/mhx-jineng3/</guid>
-      <description>
-
-&lt;h2 id=&#34;耐性-无效化技能:bf3a4c8a5da62d3215dab18e488976e5&#34;&gt;耐性、无效化技能&lt;/h2&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
-
-&lt;table border=&#34;1&#34;&gt;
-&lt;tr&gt;
-    &lt;th&gt;分类技能系统&lt;/th&gt;
-    &lt;th&gt;发动技能&lt;/th&gt;
-    &lt;th&gt;点数&lt;/th&gt;
-    &lt;th&gt;效果&lt;/th&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;属性耐性&lt;/td&gt;&lt;td&gt;属性やられ無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;全属性（火、水、雷、冰、龙属性）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;火耐性&lt;/td&gt;&lt;td&gt;火耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;火耐性+20。合计耐性超过20时，火属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;火耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;火耐性+15。合计耐性超过10时，火属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;火耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;火耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;水耐性&lt;/td&gt;&lt;td&gt;水耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;水耐性+20。合计耐性超过20时，水属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;水耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;水耐性+15。合计耐性超过10时，水属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;水耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;水耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;氷耐性&lt;/td&gt;&lt;td&gt;氷耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;冰耐性+20。合计耐性超过20时，冰属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;氷耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;冰耐性+15。合计耐性超过10时，冰属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;氷耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;冰耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;雷耐性&lt;/td&gt;&lt;td&gt;雷耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;雷耐性+20。合计耐性超过20时，雷属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;雷耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;雷耐性+15。合计耐性超过10时，雷属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;雷耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;雷耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;龍耐性&lt;/td&gt;&lt;td&gt;龍耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;龙耐性+20。合计耐性超过20时，龙属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;龍耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;龙耐性+15。合计耐性超过10时，龙属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;龍耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;龙耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;毒&lt;/td&gt;&lt;td&gt;毒無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会中毒&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;毒倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;中毒后受到的伤害加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;麻痺&lt;/td&gt;&lt;td&gt;麻痺無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会进入麻痹状态&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;麻痺倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;麻痹状态时间加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;睡眠&lt;/td&gt;&lt;td&gt;睡眠無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会进入睡眠状态&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;睡眠倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;睡眠状态的时间加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;気絶&lt;/td&gt;&lt;td&gt;気絶無効&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;不会进入气绝状态&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;気絶確率半減&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;气绝将发生时，有2分之一的概率气绝无效化&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;気絶倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;气绝时间加倍、气绝回复时输入的摇杆、按键数加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;耐暑&lt;/td&gt;&lt;td&gt;暑さ無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;暑热、熔岩地形、燃尘造成的伤害无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;暑さ倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;暑热、熔岩地形、燃尘造成的伤害加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;耐寒&lt;/td&gt;&lt;td&gt;寒さ無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;寒冷引起的耐力最大值减少无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;寒さ倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;寒冷引起的耐力最大值减少加倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;寒冷適応&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;北風の狩人&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;寒冷无效，在寒冷区域攻击力、防御力上升。饮用冷饮后攻击力进一步上升。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;炎熱適応&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;南風の狩人&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;暑热无效，在暑热区域攻击力、防御力上升。饮用热饮后攻击力进一步上升。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;耐震&lt;/td&gt;&lt;td&gt;耐震&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会因震动引发硬直。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;耐泥耐雪&lt;/td&gt;&lt;td&gt;泥＆雪無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会进入雪球、泥球状态。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;対防御DOWN&lt;/td&gt;&lt;td&gt;鉄面皮&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会发生防御力下降状态。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;風圧&lt;/td&gt;&lt;td&gt;風圧【大】無効&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;风压（大、小）无效。龙风压（大）效果减轻。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;風圧【小】無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;风压（小）无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;聴覚保護&lt;/td&gt;&lt;td&gt;高級耳栓&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;咆哮（大、小）无效。但无法抵御伴随伤害的咆哮（如轰龙）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;耳栓&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;咆哮（小）无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;盗み無効&lt;/td&gt;&lt;td&gt;盗み無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;道具不会被盗。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;細菌学&lt;/td&gt;&lt;td&gt;バイオドクター&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;こやし玉集中后怪物必定换区。肥やし玉的调和必然成功。部分道具不能使用，不会沾染爆破粉尘。狂龙症发病时间缩短到0.8倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;細菌研究家&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;こやし玉集中后怪物必定换区。肥やし玉的调和必然成功。部分道具不能使用，不会沾染爆破粉尘。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;狂撃耐性&lt;/td&gt;&lt;td&gt;無我の境地&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;容易克服狂龙病毒，另外在狂击化时会心率上升15%-30%。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;裂傷&lt;/td&gt;&lt;td&gt;裂傷無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;裂伤无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;裂傷倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;裂伤伤害加倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;耐粘&lt;/td&gt;&lt;td&gt;粘着無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;线拘束状态、重油拘束状态无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;だるま&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;だるま無効&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;雪球、气泡状态无效化&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;翻译：多玩 - 孫飛飛、魂子，转载请注明出处！&lt;/p&gt;
-
-&lt;p&gt;原文网址：&lt;a href=&#34;http://bbs.duowan.com/thread-44025166-1-1.html&#34;&gt;http://bbs.duowan.com/thread-44025166-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MHX 技能一览（体力、耐力、回复技能）</title>
-      <link>http://dengzhengyuan.github.io/post/mhx-jineng2/</link>
-      <pubDate>Tue, 26 Jan 2016 11:35:27 +0800</pubDate>
-      <author>dengzhengyuan2240@hotmail.com (DZY)</author>
-      <guid>http://dengzhengyuan.github.io/post/mhx-jineng2/</guid>
-      <description>
-
-&lt;h2 id=&#34;体力-耐力-回复技能:417ad8897eadc277ab60a1aa1c78ae7d&#34;&gt;体力、耐力、回复技能&lt;/h2&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
-
-&lt;table border=&#34;1&#34;&gt;
-&lt;tr&gt;
-    &lt;th&gt;分类技能系统&lt;/th&gt;
-    &lt;th&gt;发动技能&lt;/th&gt;
-    &lt;th&gt;点数&lt;/th&gt;
-    &lt;th&gt;效果&lt;/th&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;体力&lt;/td&gt;&lt;td&gt;体力+50&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;体力最大值+50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体力+20&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;体力最大值+20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体力-10&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;体力最大值-10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体力-30&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;体力最大值-30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;スタミナ&lt;/td&gt;&lt;td&gt;ランナー&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;冲刺、鬼人状态、突进、蓄力时耐力消费量减半&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;鈍足&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;冲刺、鬼人状态、突进、蓄力时耐力消费量加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;体術&lt;/td&gt;&lt;td&gt;体術+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;回避、防御时耐力消费量减半。遇到大型怪物时，可以实行紧急回避，紧急回避的移动距离增加。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体術+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避、防御时耐力消费量减少为0.75。遇到大型怪物时，可以实行紧急回避，紧急回避的移动距离增加。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体術-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;回避、防御时耐力消费量增加到1.2倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体術-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;回避、防御时耐力消费量增加到1.35倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;気力回復&lt;/td&gt;&lt;td&gt;スタミナ急速回復&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;耐力回复速度加倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;スタミナ回復遅延&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;耐力回复速度减少到0.75。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;腹減り&lt;/td&gt;&lt;td&gt;腹減り無効&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;不会因饥饿导致耐力最大值减少。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;腹減り半減&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;因饥饿造成的耐力最大值减少量下降一半。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;腹減り倍加【小】&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;因饥饿造成的耐力最大值减少量上升到1.5倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;腹減り倍加【大】&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;因饥饿造成的耐力最大值减少量上升到2倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;食いしん坊&lt;/td&gt;&lt;td&gt;拾い食い&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;吃肉时耐力最大值额外增加25。另外食用特定道具时スタミナ也会额外增加。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;まんぷく&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;吃肉时耐力最大值额外增加25。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;肉食&lt;/td&gt;&lt;td&gt;お肉大好き&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可以食用生肉，食用后スタミナ最大值增加50。另外，吃烤生的肉、熟肉、冷肉、热肉将附加1分钟强走效果。&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;茸食&lt;/td&gt;&lt;td&gt;キノコ大好き&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可以吃蘑菇后获得各种效果。&lt;br&gt;
-·アオキノコ=回復薬；&lt;br&gt;
-·ニトロダケ=鬼神薬；&lt;br&gt;
-·マヒダケ=硬化薬；&lt;br&gt;
-·毒テングダケ=栄養剤；&lt;br&gt;
-·ドキドキキノコ=いにしえの秘薬；&lt;br&gt;
-·強走薬=怪力の種；&lt;br&gt;
-·忍耐の種=体力回复（最小40，随机）；&lt;br&gt;
-·クタビレダケ=強走薬；&lt;br&gt;
-·マンドラゴラ=秘薬；&lt;br&gt;
-·特産キノコ=携帯食料；&lt;br&gt;
-·厳選キノコ=強走薬グレート&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;食事&lt;/td&gt;&lt;td&gt;早食い+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;吃肉、食用道具速度加快。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;早食い+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;吃肉速度加快。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;スローライフ&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;吃肉速度减慢&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;節食&lt;/td&gt;&lt;td&gt;満足感&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;吃肉或饮用道具后，25%的概率肉或道具不消失。&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;野草知識&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;薬草強化&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;药草的回复力和回复药相同。&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;回復量&lt;/td&gt;&lt;td&gt;体力回復量UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;体力回复道具的回复量增加到1.25倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体力回復量DOWN&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;体力回复道具的回复量减少到0.75倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;回復速度&lt;/td&gt;&lt;td&gt;回復速度+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;体力红色槽回复速度4倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;回復速度+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;体力红色槽回复速度2倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;回復速度-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;体力红色槽回复速度2分之一。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;回復速度-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;体力红色槽回复速度4分之一。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;効果持続&lt;/td&gt;&lt;td&gt;アイテム使用強化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;药、饮料、种子、丸药的道具效果持续时间2倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;アイテム使用弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;药、饮料、种子、丸药的道具效果持续时间3分之2。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;広域&lt;/td&gt;&lt;td&gt;広域化+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;药草、回复药、解毒药、忍耐的种、怪力的种、ウチケシの実的效果在同一个区域内的队友、猫身上也会发动。&lt;/td&gt;&lt;/tr&gt;
-
-&lt;tr&gt;
-    &lt;td&gt;広域化+1&lt;/td&gt;
-    &lt;td&gt;10&lt;/td&gt;
-    &lt;td&gt;药草、回复药、解毒药、忍耐的种、怪力的种、ウチケシの実的效果在同一个区域内的队友、猫身上也会发动。但是除解毒药之外，效果减半。&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;翻译：多玩 - 孫飛飛、魂子，转载请注明出处！&lt;/p&gt;
-
-&lt;p&gt;原文网址：&lt;a href=&#34;http://bbs.duowan.com/thread-44025166-1-1.html&#34;&gt;http://bbs.duowan.com/thread-44025166-1-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MHX 技能一览（攻击、防御、回避技能）</title>
+      <title>MHX 技能一览</title>
       <link>http://dengzhengyuan.github.io/post/mhx-jineng1/</link>
       <pubDate>Tue, 26 Jan 2016 10:35:27 +0800</pubDate>
       <author>dengzhengyuan2240@hotmail.com (DZY)</author>
       <guid>http://dengzhengyuan.github.io/post/mhx-jineng1/</guid>
       <description>
 
-&lt;h2 id=&#34;攻击-防御-回避技能:af3f62ab4668153f7f3705b4a29c7cd6&#34;&gt;攻击、防御、回避技能&lt;/h2&gt;
+&lt;h2 id=&#34;攻击-防御-回避技能:1592ce9d70c38095c81b1242676b9143&#34;&gt;攻击、防御、回避技能&lt;/h2&gt;
 
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
 
@@ -532,6 +291,163 @@
 &lt;/table&gt;
 
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;体力-耐力-回复技能:1592ce9d70c38095c81b1242676b9143&#34;&gt;体力、耐力、回复技能&lt;/h2&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
+
+&lt;table border=&#34;1&#34;&gt;
+&lt;tr&gt;
+    &lt;th&gt;分类技能系统&lt;/th&gt;
+    &lt;th&gt;发动技能&lt;/th&gt;
+    &lt;th&gt;点数&lt;/th&gt;
+    &lt;th&gt;效果&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;体力&lt;/td&gt;&lt;td&gt;体力+50&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;体力最大值+50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体力+20&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;体力最大值+20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体力-10&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;体力最大值-10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体力-30&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;体力最大值-30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;スタミナ&lt;/td&gt;&lt;td&gt;ランナー&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;冲刺、鬼人状态、突进、蓄力时耐力消费量减半&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;鈍足&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;冲刺、鬼人状态、突进、蓄力时耐力消费量加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;体術&lt;/td&gt;&lt;td&gt;体術+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;回避、防御时耐力消费量减半。遇到大型怪物时，可以实行紧急回避，紧急回避的移动距离增加。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体術+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避、防御时耐力消费量减少为0.75。遇到大型怪物时，可以实行紧急回避，紧急回避的移动距离增加。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体術-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;回避、防御时耐力消费量增加到1.2倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体術-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;回避、防御时耐力消费量增加到1.35倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;気力回復&lt;/td&gt;&lt;td&gt;スタミナ急速回復&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;耐力回复速度加倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;スタミナ回復遅延&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;耐力回复速度减少到0.75。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;腹減り&lt;/td&gt;&lt;td&gt;腹減り無効&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;不会因饥饿导致耐力最大值减少。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;腹減り半減&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;因饥饿造成的耐力最大值减少量下降一半。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;腹減り倍加【小】&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;因饥饿造成的耐力最大值减少量上升到1.5倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;腹減り倍加【大】&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;因饥饿造成的耐力最大值减少量上升到2倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;食いしん坊&lt;/td&gt;&lt;td&gt;拾い食い&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;吃肉时耐力最大值额外增加25。另外食用特定道具时スタミナ也会额外增加。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;まんぷく&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;吃肉时耐力最大值额外增加25。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;肉食&lt;/td&gt;&lt;td&gt;お肉大好き&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可以食用生肉，食用后スタミナ最大值增加50。另外，吃烤生的肉、熟肉、冷肉、热肉将附加1分钟强走效果。&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;茸食&lt;/td&gt;&lt;td&gt;キノコ大好き&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可以吃蘑菇后获得各种效果。&lt;br&gt;
+·アオキノコ=回復薬；&lt;br&gt;
+·ニトロダケ=鬼神薬；&lt;br&gt;
+·マヒダケ=硬化薬；&lt;br&gt;
+·毒テングダケ=栄養剤；&lt;br&gt;
+·ドキドキキノコ=いにしえの秘薬；&lt;br&gt;
+·強走薬=怪力の種；&lt;br&gt;
+·忍耐の種=体力回复（最小40，随机）；&lt;br&gt;
+·クタビレダケ=強走薬；&lt;br&gt;
+·マンドラゴラ=秘薬；&lt;br&gt;
+·特産キノコ=携帯食料；&lt;br&gt;
+·厳選キノコ=強走薬グレート&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;食事&lt;/td&gt;&lt;td&gt;早食い+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;吃肉、食用道具速度加快。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;早食い+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;吃肉速度加快。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;スローライフ&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;吃肉速度减慢&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;節食&lt;/td&gt;&lt;td&gt;満足感&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;吃肉或饮用道具后，25%的概率肉或道具不消失。&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;野草知識&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;薬草強化&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;药草的回复力和回复药相同。&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;回復量&lt;/td&gt;&lt;td&gt;体力回復量UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;体力回复道具的回复量增加到1.25倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;体力回復量DOWN&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;体力回复道具的回复量减少到0.75倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;回復速度&lt;/td&gt;&lt;td&gt;回復速度+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;体力红色槽回复速度4倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;回復速度+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;体力红色槽回复速度2倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;回復速度-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;体力红色槽回复速度2分之一。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;回復速度-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;体力红色槽回复速度4分之一。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;効果持続&lt;/td&gt;&lt;td&gt;アイテム使用強化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;药、饮料、种子、丸药的道具效果持续时间2倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;アイテム使用弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;药、饮料、种子、丸药的道具效果持续时间3分之2。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;広域&lt;/td&gt;&lt;td&gt;広域化+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;药草、回复药、解毒药、忍耐的种、怪力的种、ウチケシの実的效果在同一个区域内的队友、猫身上也会发动。&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+    &lt;td&gt;広域化+1&lt;/td&gt;
+    &lt;td&gt;10&lt;/td&gt;
+    &lt;td&gt;药草、回复药、解毒药、忍耐的种、怪力的种、ウチケシの実的效果在同一个区域内的队友、猫身上也会发动。但是除解毒药之外，效果减半。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;耐性-无效化技能:1592ce9d70c38095c81b1242676b9143&#34;&gt;耐性、无效化技能&lt;/h2&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
+
+&lt;table border=&#34;1&#34;&gt;
+&lt;tr&gt;
+    &lt;th&gt;分类技能系统&lt;/th&gt;
+    &lt;th&gt;发动技能&lt;/th&gt;
+    &lt;th&gt;点数&lt;/th&gt;
+    &lt;th&gt;效果&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;属性耐性&lt;/td&gt;&lt;td&gt;属性やられ無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;全属性（火、水、雷、冰、龙属性）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;火耐性&lt;/td&gt;&lt;td&gt;火耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;火耐性+20。合计耐性超过20时，火属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;火耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;火耐性+15。合计耐性超过10时，火属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;火耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;火耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;水耐性&lt;/td&gt;&lt;td&gt;水耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;水耐性+20。合计耐性超过20时，水属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;水耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;水耐性+15。合计耐性超过10时，水属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;水耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;水耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;氷耐性&lt;/td&gt;&lt;td&gt;氷耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;冰耐性+20。合计耐性超过20时，冰属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;氷耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;冰耐性+15。合计耐性超过10时，冰属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;氷耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;冰耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;雷耐性&lt;/td&gt;&lt;td&gt;雷耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;雷耐性+20。合计耐性超过20时，雷属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;雷耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;雷耐性+15。合计耐性超过10时，雷属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;雷耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;雷耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;龍耐性&lt;/td&gt;&lt;td&gt;龍耐性【大】&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;龙耐性+20。合计耐性超过20时，龙属性（大、小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;龍耐性【小】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;龙耐性+15。合计耐性超过10时，龙属性（小）无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;龍耐性弱化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;龙耐性-20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;毒&lt;/td&gt;&lt;td&gt;毒無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会中毒&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;毒倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;中毒后受到的伤害加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;麻痺&lt;/td&gt;&lt;td&gt;麻痺無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会进入麻痹状态&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;麻痺倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;麻痹状态时间加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;睡眠&lt;/td&gt;&lt;td&gt;睡眠無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会进入睡眠状态&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;睡眠倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;睡眠状态的时间加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;気絶&lt;/td&gt;&lt;td&gt;気絶無効&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;不会进入气绝状态&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;気絶確率半減&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;气绝将发生时，有2分之一的概率气绝无效化&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;気絶倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;气绝时间加倍、气绝回复时输入的摇杆、按键数加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;耐暑&lt;/td&gt;&lt;td&gt;暑さ無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;暑热、熔岩地形、燃尘造成的伤害无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;暑さ倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;暑热、熔岩地形、燃尘造成的伤害加倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;耐寒&lt;/td&gt;&lt;td&gt;寒さ無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;寒冷引起的耐力最大值减少无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;寒さ倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;寒冷引起的耐力最大值减少加倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;寒冷適応&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;北風の狩人&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;寒冷无效，在寒冷区域攻击力、防御力上升。饮用冷饮后攻击力进一步上升。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;炎熱適応&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;南風の狩人&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;暑热无效，在暑热区域攻击力、防御力上升。饮用热饮后攻击力进一步上升。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;耐震&lt;/td&gt;&lt;td&gt;耐震&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会因震动引发硬直。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;耐泥耐雪&lt;/td&gt;&lt;td&gt;泥＆雪無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会进入雪球、泥球状态。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;対防御DOWN&lt;/td&gt;&lt;td&gt;鉄面皮&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不会发生防御力下降状态。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;風圧&lt;/td&gt;&lt;td&gt;風圧【大】無効&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;风压（大、小）无效。龙风压（大）效果减轻。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;風圧【小】無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;风压（小）无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;聴覚保護&lt;/td&gt;&lt;td&gt;高級耳栓&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;咆哮（大、小）无效。但无法抵御伴随伤害的咆哮（如轰龙）&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;耳栓&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;咆哮（小）无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;盗み無効&lt;/td&gt;&lt;td&gt;盗み無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;道具不会被盗。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;細菌学&lt;/td&gt;&lt;td&gt;バイオドクター&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;こやし玉集中后怪物必定换区。肥やし玉的调和必然成功。部分道具不能使用，不会沾染爆破粉尘。狂龙症发病时间缩短到0.8倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;細菌研究家&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;こやし玉集中后怪物必定换区。肥やし玉的调和必然成功。部分道具不能使用，不会沾染爆破粉尘。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;狂撃耐性&lt;/td&gt;&lt;td&gt;無我の境地&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;容易克服狂龙病毒，另外在狂击化时会心率上升15%-30%。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;裂傷&lt;/td&gt;&lt;td&gt;裂傷無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;裂伤无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;裂傷倍加&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;裂伤伤害加倍。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;耐粘&lt;/td&gt;&lt;td&gt;粘着無効&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;线拘束状态、重油拘束状态无效化。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;だるま&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;だるま無効&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;雪球、气泡状态无效化&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;报酬-采取-调合技能:1592ce9d70c38095c81b1242676b9143&#34;&gt;报酬、采取、调合技能&lt;/h2&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
+
+&lt;table border=&#34;1&#34;&gt;
+&lt;tr&gt;
+    &lt;th&gt;分类技能系统&lt;/th&gt;
+    &lt;th&gt;发动技能&lt;/th&gt;
+    &lt;th&gt;点数&lt;/th&gt;
+    &lt;th&gt;效果&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td rowspan=&#34;5&#34;&gt;運気&lt;/td&gt;&lt;td&gt;激運&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为31/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;強運&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为28/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;幸運&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为25/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;不運&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为16/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;災難&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;任务报酬的抽奖报酬获得率从平时的22/32变化为8/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;剥ぎ取り&lt;/td&gt;&lt;td&gt;剥ぎ取りマスター&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;剥取次数增加1次，剥取时霸体。并有25/32的几率再增加1次剥取次数&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;剥ぎ取り達人&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;剥取次数增加1次，剥取时霸体&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;剥ぎ取り鉄人&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;剥取时霸体&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;3&#34;&gt;捕獲&lt;/td&gt;&lt;td&gt;捕獲マスター&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;捕获怪物时的捕获报酬从2～3个增加至4个&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;捕獲名人&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;捕获怪物时的捕获报酬从2～3个增加至3～4个&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;捕獲達人&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;捕获怪物时的捕获报酬从2～3个增加至3个&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;採取&lt;/td&gt;&lt;td&gt;採取マスター&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;下次也可采取道具的几率从平时的25/32变为31/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;採取+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;下次也可采取道具的几率从平时的25/32变为29/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;採取+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;下次也可采取道具的几率从平时的25/32变为27/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;採取-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;下次也可采取道具的几率从平时的25/32变为21/32。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;高速収集&lt;/td&gt;&lt;td&gt;高速収集&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;剥取、采取、捕虫、采掘速度变快&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;運搬&lt;/td&gt;&lt;td&gt;運搬の達人&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;搬运时的移动速度变快。就算从高处跳下也不容易使搬运物掉落&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ハチミツ&lt;/td&gt;&lt;td&gt;ハニーハンター&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;1次可采取2个蜂蜜及皇家蜂蜜&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;護石王&lt;/td&gt;&lt;td&gt;お守りハンター&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;采集时30%的几率获得2个お守り&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;お守り収集&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;采集时20%的几率获得2个お守り&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;気まぐれ&lt;/td&gt;&lt;td&gt;神の気まぐれ&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;ピッケル系、虫あみ系、笛系、ブーメラン 1/2的几率不损坏&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;精霊の気まぐれ&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;ピッケル系、虫あみ系、笛系、ブーメラン 1/4的几率不损坏&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;悪霊の気まぐれ&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;ピッケル系、虫あみ系、笛系、ブーメラン 1/4的几率不损坏&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;悪魔の気まぐれ&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;ピッケル系、虫あみ系、笛系、ブーメラン 1/2的几率不损坏&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;調合数&lt;/td&gt;&lt;td&gt;最大数生産&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;调合的生产数必然为最大&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;調合成功率&lt;/td&gt;&lt;td&gt;調合成功率+45%&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;调合成功率+45%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;調合成功率+20%&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;调合成功率+20%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;調合成功率-10%&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;调合成功率-10%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;調合成功率-20%&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;调合成功率-20%&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;远程职业技能:1592ce9d70c38095c81b1242676b9143&#34;&gt;远程职业技能&lt;/h2&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
+
+&lt;table border=&#34;1&#34;&gt;
+&lt;tr&gt;
+    &lt;th&gt;分类技能系统&lt;/th&gt;
+    &lt;th&gt;发动技能&lt;/th&gt;
+    &lt;th&gt;点数&lt;/th&gt;
+    &lt;th&gt;效果&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;通常弾強化&lt;/td&gt;&lt;td&gt;通常弾・連射矢UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;通常弹、连射矢的威力变为原来的1.1倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;通常弾追加&lt;/td&gt;&lt;td&gt;通常弾全LV追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用所有LV的通常弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;貫通弾強化&lt;/td&gt;&lt;td&gt;貫通弾・貫通矢UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;贯通弹、贯通矢的威力变为原来的1.1倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;貫通弾追加&lt;/td&gt;&lt;td&gt;貫通弾全LV追加&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;可使用所有LV的贯通弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;貫通弾LV1追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用LV1贯通弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;散弾強化&lt;/td&gt;&lt;td&gt;散弾・拡散矢UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;散弹的威力变为原来的1.2倍。扩散矢的威力变为原来的1.3倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;散弾追加&lt;/td&gt;&lt;td&gt;散弾全LV追加&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;可使用所有LV的散弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;散弾LV1追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用LV1散弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;榴弾追加&lt;/td&gt;&lt;td&gt;徹甲榴弾全LV追加&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;可使用所有LV的徹甲榴弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;徹甲榴弾LV1追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用LV1徹甲榴弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;拡散弾追加&lt;/td&gt;&lt;td&gt;拡散弾全LV追加&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;可使用所有LV的扩散弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;拡散弾LV1追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可使用LV1扩散弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;斬裂弾追加&lt;/td&gt;&lt;td&gt;斬裂弾追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备斩裂弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;爆破弾追加&lt;/td&gt;&lt;td&gt;爆破弾追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备爆破弹&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;強撃瓶追加&lt;/td&gt;&lt;td&gt;強撃ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备强击瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;毒瓶追加&lt;/td&gt;&lt;td&gt;毒ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备毒瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;麻痺瓶追加&lt;/td&gt;&lt;td&gt;麻痺ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备麻痺瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;睡眠瓶追加&lt;/td&gt;&lt;td&gt;睡眠ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备睡眠瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;接撃瓶追加&lt;/td&gt;&lt;td&gt;接撃ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备接击瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;減気瓶追加&lt;/td&gt;&lt;td&gt;減気ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备减气瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;爆破瓶追加&lt;/td&gt;&lt;td&gt;爆破ビン追加&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;可装备爆破瓶&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;4&#34;&gt;精密射撃&lt;/td&gt;&lt;td&gt;ブレ抑制+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;不再有弹道抖动幅度&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ブレ抑制+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弹道抖动幅度减少1个阶段&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ブレ抑制-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;弹道抖动幅度增加1个阶段&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ブレ抑制-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;弹道抖动幅度大&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;6&#34;&gt;反動&lt;/td&gt;&lt;td&gt;反動軽減+3&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;弩枪的反作用力减少3个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;弩枪的反作用力减少2个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弩枪的反作用力减少1个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;弩枪的反作用力增加1个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;弩枪的反作用力增加2个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;反動軽減-3&lt;/td&gt;&lt;td&gt;-20&lt;/td&gt;&lt;td&gt;弩枪的反作用力增加3个阶段。但对速的反作用力无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填数&lt;/td&gt;&lt;td&gt;装填数UP&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弩枪的装填数、弓的蓄力各增加1个阶段(最大4阶段)。铳枪的炮击、蓄力斧的装填数都会增加&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;6&#34;&gt;装填速度&lt;/td&gt;&lt;td&gt;装填速度+3&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;弩枪的装填速度提高3个阶段，但是对蹲姿射击没有影响。弓的瓶子切换后可以自动装填。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度+2&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;弩枪的装填速度提高2个阶段，但是对蹲姿射击没有影响。弓的瓶子切换后可以自动装填。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弩枪的装填速度提高1个阶段，但是对蹲姿射击没有影响。弓的瓶子切换速度加快0.75倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度-1&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;弩枪的装填速度延缓1个阶段。但是对蹲姿射击没有影响。弓的瓶子装入速度延缓1.1倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度-2&lt;/td&gt;&lt;td&gt;-15&lt;/td&gt;&lt;td&gt;弩枪的装填速度延缓2个阶段。但是对蹲姿射击没有影响。弓的瓶子装入速度延缓1.2倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;装填速度-3&lt;/td&gt;&lt;td&gt;-20&lt;/td&gt;&lt;td&gt;弩枪的装填速度延缓3个阶段。但是对蹲姿射击没有影响。弓的瓶子装入速度延缓1.3倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;速射&lt;/td&gt;&lt;td&gt;連発数+1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;速射时的发射数+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;射法&lt;/td&gt;&lt;td&gt;弾導強化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;使部分子弹、弓箭的会心距离延长&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;弾薬節約&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;弾薬節約&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;射击时有时不消耗子弹及瓶子&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;変則射撃&lt;/td&gt;&lt;td&gt;特定射撃強化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;武器内藏弹、曲射、刚射的威力上升&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;复合技能:1592ce9d70c38095c81b1242676b9143&#34;&gt;复合技能&lt;/h2&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
+
+&lt;table border=&#34;1&#34;&gt;
+&lt;tr&gt;
+    &lt;th&gt;分类技能系统&lt;/th&gt;
+    &lt;th&gt;发动技能&lt;/th&gt;
+    &lt;th&gt;点数&lt;/th&gt;
+    &lt;th&gt;效果&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ベルナ&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ベルナの心&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;火耐性【小】 ＋ 腹減り半減&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ココット&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ココットの心&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;雷耐性【小】 ＋ 精霊の気まぐれ&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ポッケ&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ポッケの心&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;氷耐性【小】 ＋ まんぷく&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ユクモ&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;ユクモの心&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;水耐性【小】 ＋ ハニーハンター&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;刀匠&lt;/td&gt;&lt;td&gt;真打&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;斬れ味レベル+1 ＋ 攻撃力UP【大】&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;秘伝&lt;/td&gt;&lt;td&gt;奥義&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;覚醒 ＋ 属性攻撃強化 ＋ 状態異常攻撃&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;斬術&lt;/td&gt;&lt;td&gt;心剣一体&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;心眼 ＋ 業物&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;北辰納豆流&lt;/td&gt;&lt;td&gt;ネバネバ剣法&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;不屈 ＋ ランナー ＋ スタミナ奪取&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;剛腕&lt;/td&gt;&lt;td&gt;強打&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;スタミナ奪取 ＋ KO術&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;状態耐性&lt;/td&gt;&lt;td&gt;護法&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;毒無効 ＋ 気絶無効 ＋ 麻痺無効 ＋ 睡眠無効&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;回避術&lt;/td&gt;&lt;td&gt;軽業師&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避性能+1 ＋ 体術+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;祈願&lt;/td&gt;&lt;td&gt;祝福&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;体力回復量UP ＋ 精霊の加護&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;護石収集&lt;/td&gt;&lt;td&gt;お守りマニア&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;採取+1 ＋ お守りハンター&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;強欲&lt;/td&gt;&lt;td&gt;増収&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;幸運 ＋ 捕獲達人&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;射手&lt;/td&gt;&lt;td&gt;剛弾&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;通常弾強化 ＋ 散弾強化 ＋ 貫通弾強化&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;裏稼業&lt;/td&gt;&lt;td&gt;暗躍&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;装填数UP ＋ 調合成功率 ＋ 隠密&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;怒&lt;/td&gt;&lt;td&gt;逆鱗&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;根性 ＋ 火事場力+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;頑強&lt;/td&gt;&lt;td&gt;鉄壁&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;防御力UP【中】 ＋ 鉄面皮&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;居合&lt;/td&gt;&lt;td&gt;居合術【力】&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;抜刀術【力】 ＋ 納刀術&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;一心&lt;/td&gt;&lt;td&gt;精神力&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;集中 ＋ お肉大好き&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;食欲&lt;/td&gt;&lt;td&gt;グルメ&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;早食い+2 ＋ お肉大好き ＋ キノコ大好き&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;盾持&lt;/td&gt;&lt;td&gt;盾使い&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;ガード強化 ＋ スタミナ急速回復&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;潔癖&lt;/td&gt;&lt;td&gt;舞闘家&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避距離UP ＋ フルチャージ&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;増幅&lt;/td&gt;&lt;td&gt;属物強化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;属性攻撃強化 ＋ アイテム使用強化&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;剛撃&lt;/td&gt;&lt;td&gt;無慈悲&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;弱点特効 ＋ 見切り+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;不動&lt;/td&gt;&lt;td&gt;金剛体&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;耳栓 ＋ 風圧【小】无效，受到攻击时的反应减少1个阶段&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;職工&lt;/td&gt;&lt;td&gt;トラップマスター&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;罠師 ＋ ボマー&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;指揮&lt;/td&gt;&lt;td&gt;オトモ指揮官&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;采配 ＋ 号令&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;紅兜&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;紅兜の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;逆恨み ＋ 集中&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;大雪主&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;大雪主の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避距離UP ＋ スタミナ急速回復&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;紫毒姫&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;紫毒姫の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;状態異常攻撃+2 ＋ 広域+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;矛砕&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;矛砕の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;業物 ＋ 反動軽減+2 ＋ 精霊の加護&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;岩穿&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;岩穿の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;火事場+2 ＋ 拾い食い&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;黒炎王&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;黒炎王の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;風圧【大】無効 ＋ 攻撃力UP【大】&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;荒鉤爪&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;荒鉤爪の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;早食い+2 ＋ 高級耳栓&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;金雷公&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;金雷公の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;力の解放+2 ＋ 体術+2&lt;br&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;隻眼&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;隻眼の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;気絶無効 ＋ 挑戦者+2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;宝纏&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;宝纏の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;護石王 ＋ 腹減り無効&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;白疾風&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;白疾風の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;回避性能+2 ＋ 見切り+3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;燼滅刃&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&#34;#ff0000&#34;&gt;燼滅刃の魂&lt;/font&gt;&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;斬れ味レベル+2 ＋ 弾導強化 ＋ 砥石使用高速化&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;随从猫-其他技能:1592ce9d70c38095c81b1242676b9143&#34;&gt;随从猫、其他技能&lt;/h2&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;红色名称的技能为MHX新增技能。&lt;/p&gt;
+
+&lt;p&gt;&lt;table border=&#34;1&#34;&gt;
+&lt;tr&gt;
+    &lt;th&gt;分类技能系统&lt;/th&gt;
+    &lt;th&gt;发动技能&lt;/th&gt;
+    &lt;th&gt;点数&lt;/th&gt;
+    &lt;th&gt;效果&lt;/th&gt;
+&lt;/tr&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;千里眼&lt;/td&gt;&lt;td&gt;自動マーキング&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;常时显示中型、大型怪物的位置、朝向、攻击状态&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;探知&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;标记时，显示中型、大型怪物的位置、朝向、攻击状态。同时，就算没有进行标记也有一定几率获得同样的效果。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;観察眼&lt;/td&gt;&lt;td&gt;捕獲の見極め&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;标记时，在可捕获的时候图标出现白色闪烁。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;狩人&lt;/td&gt;&lt;td&gt;ハンター生活&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;变得容易做烤肉。就算没有地图也能显示小地图。钓鱼时在首次拉杆中上钩。鱼饵道具调合成功率100%。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;気配&lt;/td&gt;&lt;td&gt;隠密&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;变得不容易被怪物视为攻击目标&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;挑発&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;变得容易被被怪物视为攻击目标&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;研ぎ師&lt;/td&gt;&lt;td&gt;砥石使用高速化&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;使用砥石系道具所需时间变短。从平时的4次变为1次。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;砥石使用低速化&lt;/td&gt;&lt;td&gt;-10&lt;/td&gt;&lt;td&gt;使用砥石系道具所需时间变长。从平时的4次变为5次。&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;高速設置&lt;/td&gt;&lt;td&gt;罠師&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;陷井道具、肉道具、炸弹(除了小桶炸弹和升空桶炸弹以外)的设置所需时间变短。陷井道具及肉道具的调合成功率100%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;燃鱗&lt;/td&gt;&lt;td&gt;燃鱗&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;获得和持有火把时同样的效果。ジャギィ等部分小型怪物不再靠近，反之会吸引ブナハブラ、クンチュウ等虫类的注意。アイルー、メラルー等猫也会出现&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;笛&lt;/td&gt;&lt;td&gt;笛吹き名人&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;延长狩猎笛的演奏效果时间，拥有回复效果的旋律则出现回复量变多的效果。此外，笛道具有1/2的几率不破损&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;号令&lt;/td&gt;&lt;td&gt;オトモへの号令&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;在打猎猫休息的状态，实行动作“かけごえ（号令）”就能使其体力回满。不可在使用后的10分钟内再次使用。在设有背水の陣的印的时候无效&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;采配&lt;/td&gt;&lt;td&gt;オトモへの采配&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;打猎猫的攻击力和防御力变为原来的1.1倍&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;胴系統倍加&lt;/td&gt;&lt;td&gt;胴系統倍加&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;胴部件的技能点数变为原来的2倍&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;翻译：多玩 - 孫飛飛、魂子，转载请注明出处！&lt;/p&gt;
