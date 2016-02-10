@@ -19,116 +19,96 @@
       <guid>http://dengzhengyuan.github.io/post/mhx-wuqi/</guid>
       <description>
 
-&lt;h1 id=&#34;太刀:63b8dec30916868e877b64b9ede08f83&#34;&gt;太刀&lt;/h1&gt;
+&lt;table border=&#34;1&#34;&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;属性&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;武器&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;套装&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
+# 太刀
 
-&lt;tbody&gt;
+&lt;table border=&#34;1&#34;&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;火&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;黑炎王&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+    &lt;th&gt;属性&lt;/th&gt;
+    &lt;th&gt;武器&lt;/th&gt;
+    &lt;th&gt;套装&lt;/th&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;水&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;泡狐&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+    &lt;td&gt;火&lt;/td&gt;
+    &lt;td&gt;黑炎王&lt;/td&gt;
+    &lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;雷&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;电鸡 or 雷狼&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+    &lt;td&gt;水&lt;/td&gt;
+    &lt;td&gt;泡狐&lt;/td&gt;
+    &lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;冰&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;雪一文字&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+    &lt;td&gt;雷&lt;/td&gt;
+    &lt;td&gt;电鸡 or 雷狼&lt;/td&gt;
+    &lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;爆破&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;炎王 or 烬灭刃&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;烬灭刃套&lt;/td&gt;
+    &lt;td&gt;冰&lt;/td&gt;
+    &lt;td&gt;雪一文字&lt;/td&gt;
+    &lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;龙&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;煌黑&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+    &lt;td&gt;爆破&lt;/td&gt;
+    &lt;td&gt;炎王 or 烬灭刃&lt;/td&gt;
+    &lt;td&gt;烬灭刃套&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;物理&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;迅&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;白疾风套&lt;/td&gt;
+    &lt;td&gt;龙&lt;/td&gt;
+    &lt;td&gt;煌黑&lt;/td&gt;
+    &lt;td&gt; &lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
+&lt;tr&gt;
+    &lt;td&gt;物理&lt;/td&gt;
+    &lt;td&gt;迅&lt;/td&gt;
+    &lt;td&gt;白疾风套&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;h1 id=&#34;双刀:63b8dec30916868e877b64b9ede08f83&#34;&gt;双刀&lt;/h1&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
+&lt;table border=&#34;1&#34;&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;属性&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;武器&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;套装&lt;/th&gt;
+    &lt;th&gt;属性&lt;/th&gt;
+    &lt;th&gt;武器&lt;/th&gt;
+    &lt;th&gt;套装&lt;/th&gt;
 &lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;火&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;斩龙&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;烬灭刃套&lt;/td&gt;
+    &lt;td&gt;火&lt;/td&gt;
+    &lt;td&gt;斩龙&lt;/td&gt;
+    &lt;td&gt;烬灭刃套&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;水&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;泡狐&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;烬灭刃套&lt;/td&gt;
+    &lt;td&gt;水&lt;/td&gt;
+    &lt;td&gt;泡狐&lt;/td&gt;
+    &lt;td&gt;烬灭刃套&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;雷&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;麒麟&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;黑炎王套&lt;/td&gt;
+    &lt;td&gt;雷&lt;/td&gt;
+    &lt;td&gt;麒麟&lt;/td&gt;
+    &lt;td&gt;黑炎王套&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;冰&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;钢龙&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;烬灭刃套&lt;/td&gt;
+    &lt;td&gt;冰&lt;/td&gt;
+    &lt;td&gt;风化-&gt;钢龙&lt;/td&gt;
+    &lt;td&gt;烬灭刃套&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;爆破&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;烬灭刃&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;黑炎王套&lt;/td&gt;
+    &lt;td&gt;爆破&lt;/td&gt;
+    &lt;td&gt;烬灭刃&lt;/td&gt;
+    &lt;td&gt;黑炎王套&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;龙&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;黑龙&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;烬灭刃套&lt;/td&gt;
+    &lt;td&gt;龙&lt;/td&gt;
+    &lt;td&gt;黑龙&lt;/td&gt;
+    &lt;td&gt;烬灭刃套&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;物理&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;荒钩&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;黑炎王套&lt;/td&gt;
+    &lt;td&gt;物理&lt;/td&gt;
+    &lt;td&gt;荒钩&lt;/td&gt;
+    &lt;td&gt;黑炎王套&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h1 id=&#34;弓箭:63b8dec30916868e877b64b9ede08f83&#34;&gt;弓箭&lt;/h1&gt;
@@ -193,6 +173,59 @@
 &lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table border=&#34;1&#34;&gt;
+&lt;tr&gt;
+    &lt;th&gt;&lt;/th&gt;
+    &lt;th&gt;连射&lt;/th&gt;
+    &lt;th&gt;散射&lt;/th&gt;
+    &lt;th&gt;贯通&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;火&lt;/td&gt;
+    &lt;td&gt;斩龙&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;水&lt;/td&gt;
+    &lt;td&gt;泡狐&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+    &lt;td&gt;雷&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;电龙 or 雷狼龙&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;冰&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;爆破&lt;/td&gt;
+    &lt;td&gt;炎王&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;龙&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;天廻&lt;/td&gt;
+    &lt;td&gt;煌黑&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+    &lt;td&gt;物理&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/table&gt;
 </description>
     </item>
